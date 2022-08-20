@@ -21,6 +21,6 @@ git commit -m 'deploy'
 #git push -f git@github.com:Aputl/Aputl.github.io.git main
 
 
-git push -f git@github.com:Aputl/vite-deploy-test.git main:gh-pages
+git push -f git@github.com:Aputl/react-Hooks.git main:gh-pages
 
 cd -
